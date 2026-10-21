@@ -3,7 +3,7 @@ Hadjinor, Norjane M.
 3 BSCS A
 
 
-# Mealy Machine
+# Mealy Machine: C STYLE COMMENTS
 
 A C-style block comment starts with /* and ends with */.
 
