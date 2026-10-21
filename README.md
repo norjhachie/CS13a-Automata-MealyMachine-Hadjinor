@@ -20,8 +20,6 @@ the machine must check two things:
 
 <img width="960" height="510" alt="output_1" src="https://github.com/user-attachments/assets/24af1108-1b04-4d3b-96cb-5b3ce2296672" />
 
-<img width="960" height="510" alt="output_2" src="https://github.com/user-attachments/assets/ee4e47eb-c80f-4a47-874f-72ee14f139ea" />
-
 
 ## written assignment
 
